@@ -1,6 +1,6 @@
 # Privacy Policy for FloHockey Score Hider
 
-Last updated: [Current Date]
+Last updated: May 1st, 2025
 
 ## Overview
 
