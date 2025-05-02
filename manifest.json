@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "FloHockey Score Hider",
+  "version": "1.0",
+  "description": "Hides the score on FloHockey.tv to prevent spoilers",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.flohockey.tv/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
