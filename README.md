@@ -2,6 +2,8 @@
 
 A Chrome extension that automatically hides the score display on FloHockey.tv to prevent spoilers when watching games that have already started.
 
+![Screenshot 2025-05-01 at 11 14 22 PM](https://github.com/user-attachments/assets/a145e12d-a63a-4cb1-84c7-b333d47a121e)
+
 ## Problem
 
 When watching a game on FloHockey.tv that's already in progress, the current score is prominently displayed on the page. This can spoil the game if you're starting to watch a few minutes late.
