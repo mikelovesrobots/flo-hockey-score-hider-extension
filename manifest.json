@@ -6,7 +6,7 @@
   "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["*://*.flohockey.tv/*"],
+      "matches": ["*://*.flohockey.tv/*", "*://*.hockeytech.com/*"],
       "js": ["content.js"]
     }
   ]
