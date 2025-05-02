@@ -20,14 +20,6 @@ FloHockey Score Hider automatically hides the score display, allowing you to enj
 
 ## Installation
 
-### From Chrome Web Store (Recommended)
-
-1. Visit the [Chrome Web Store](https://chrome.google.com/webstore) (link to be added)
-2. Click "Add to Chrome"
-3. Confirm the installation
-
-### Manual Installation
-
 1. Download the latest release from the [releases page](https://github.com/mikelovesrobots/flo-hockey-score-hider-extension/releases)
 2. Unzip the downloaded file
 3. Open Chrome and go to `chrome://extensions/`
